@@ -1,1 +1,984 @@
-U
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel=stylesheet" href="style.css"/>
+</head>
+	<body ondragstart="return false" ondrop="return false" onselectstart="return false" oncontextmenu="return false">
+
+
+
+
+
+	<center>	
+
+
+			<img class=enimak
+			 
+	
+   
+			 	  <img style="border-radius: 0px;"  src="https://1.bp.blogspot.com/-tgvGlDqVxyM/X69lBaINE2I/AAAAAAAAAAg/CAuNxDKqjpY-xbJdTgRCFMNcm5eITrdxACLcBGAsYHQ/s1220/20201114_010240.png" width="31.5%" height="auto" ></a>
+
+
+
+   
+
+</center>
+		
+			<h2> <font size="5" color= "#fff" face= "arial">Moodii</font> </h2>
+
+		
+
+		<div class="nav-links" id="nav-links">
+		 <i class="fa fa-close"onclick="closeNav()"></i>
+		   <ul>
+		   <div class="profile">
+			   <i class="fa fa-user"></i>
+			   <p>Hello,User</p>
+		   </div><br><br><br><br>
+			<div class ="line"></div>
+<a href="#"><li class="down_1"></li><i class="fa fa-th-list"></i></a>
+<a href="#"><li></li><i class="fa fa-gear"></i></a>
+			<div class="line1"></div>
+<a href="#"><li class="down_1"></li><i class="fa fa-envelope"></i></a>
+		   </ul>
+		</div>
+<div class="icon" ><i class="fa fa-shopping-cart"></i><span class="super"></span></div>
+<i class="fa fa-bars"onclick="show()"></i></div>
+
+<div class="categories">
+
+
+	<div class="images">
+	
+	
+		<a href="#">
+		<div class="img_1" id="men">	
+			<img src="https://1.bp.blogspot.com/-L7Q3qYyrUiU/YP2OVqjQwAI/AAAAAAAAEKs/FFPUsZDZIREjaB-d5x2UF5FVYRb7Hr9LACLcBGAsYHQ/s0/4556A7B4-4176-412B-9F75-D5F870560488.png" alt="men"></a>
+		<center><h6>Desierto</h6></center>
+		</div>
+		
+		<a href="#">
+		<div class="img_1"id="women">	
+			<img src="https://1.bp.blogspot.com/-lmfreX_QqJs/YP2OWUDoAuI/AAAAAAAAEK4/5ic_i_Fv2uQgjtkRcQY3xPtGYeeLIzfIQCLcBGAsYHQ/s0/E30BED45-DC26-4219-8902-DCD6753DDF9E.png" alt="women"></a>
+
+	<center><h6>Parque</h6></center>
+		</div>
+		
+		<a href="go:musica">	
+		
+		<div class="img_1"id="beauty">	
+			<img src="https://1.bp.blogspot.com/-c6t3rES_BMw/YP2OWGy8t6I/AAAAAAAAEK0/Wv5eUzIEdBkTE_oYwt63J-sAcbzVHSlnACLcBGAsYHQ/s0/A8B75968-05AC-4479-A303-21A8422990A3.png" alt="beauty"></a>
+
+	<center><h6>Cabaña</h6></center>
+		</div>
+		
+			<a href="go:musica">	
+			
+		<div class="img_1"id="gadgets">	
+			<img src="https://1.bp.blogspot.com/-BKIcmMSLyDg/YP2OWUYCkiI/AAAAAAAAEK8/F-3GAXmQtVsBsnwHhgNWnSLH4Sutz6SwACLcBGAsYHQ/s0/E464BE7A-1DBE-4E1F-BB31-5041942D192C.png" alt="gadgets"></a>
+
+	<center><h6>Camino</h6></center>
+		</div>
+		
+		<a href="go:musica">	
+		<div class="img_1"id="home">	
+			<img src="https://1.bp.blogspot.com/-WsyLoUxDbTA/YP2OWMM78SI/AAAAAAAAEKw/KsZ-hZZ0BCouEfAEXlOz-0I1-B3Y_y35QCLcBGAsYHQ/s0/87B56B70-3C87-4340-B437-E04BB55EC95C.png" alt="home"></a>
+			<center><h6>Batalla</h6></center>
+		</div>
+
+	</div>
+</div>  
+</div>
+
+
+
+
+
+	<h2> <font size="5" color= "#fff" face= "arial">Temas</font> </h2>
+
+
+
+
+
+
+
+	
+
+	<style type="text/css">
+	 
+		}
+		button{
+			background-color: white;
+			color: black;
+			border: none;
+			border-radius: 5px;
+			size: 20px;
+			width: 70px;
+			padding: 10px;
+		}
+		div .enimak {
+		  overflow-x: scroll;
+		  overflow-y: hidden;
+		  white-space: nowrap;
+		  object-fit: cover;}
+		}
+  
+	</style>
+</head>
+
+<div>
+	<div class="firstfield" >
+	  
+   </div>
+ 
+	
+	
+
+
+<style> h2{ color: #000; font-family: Arial, Helvetica, sans-serif; border-radius: 5px; margin:20px; } 
+
+div .enimak{ margin:2px; border-radius: 20px; 
+ 
+display:adsolute;
+position:responsive; 
+
+
+
+{
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+	<div class="firstfield" >
+	  
+   </div>
+ 
+
+
+
+
+
+
+	<div align="center" class="enimak">
+			
+						
+		
+	
+			<a href="go:musica">
+			<img class=enimak
+			 
+			   <img style="border-radius: 18px 43px;"  src="https://1.bp.blogspot.com/-xbYLK8FFMbQ/YO0cMB0E-_I/AAAAAAAAEFE/_etICNqb9q8K_NBOXrwbFPyUCh0vJAiIQCLcBGAsYHQ/s0/01A79354-B098-4B8B-B854-C1C3DA624C80.jpeg" width="52%" height="auto" ></a>
+			
+			
+					<a href="go:">
+			<img class=enimak
+			 
+			   <img style="border-radius: 0px 0px;"  src="https://1.bp.blogspot.com/-tgvGlDqVxyM/X69lBaINE2I/AAAAAAAAAAg/CAuNxDKqjpY-xbJdTgRCFMNcm5eITrdxACLcBGAsYHQ/s1220/20201114_010240.png" width="2" height="1" ></a>
+			
+			
+			
+			
+			
+			<a href="go:moda">
+			<img class=enimak
+			 
+			   <img style="border-radius: 43px 18px;"  src="https://1.bp.blogspot.com/-zUrxZXUzBlo/YPO0WofVaAI/AAAAAAAAEHA/TA4MmJs2QxIghfOEG2NE4KzXZFD6_yoWwCLcBGAsYHQ/s0/757ACCD1-8063-4B08-A84D-30067B8F4809.png" width="37%" height="auto" ></a>
+			
+			
+				
+			
+			
+
+
+
+</div>
+
+
+
+<div>
+	<div class="firstfield" >
+	  
+   </div>
+ 
+	
+	
+	<div align="center" class="enimak">
+			
+			
+			
+		
+
+			 
+	
+	
+	<a href="go:vermas" > <img class=enimak  
+	
+	  <img style="border-radius: 43px 18px;"
+	
+	src="https://1.bp.blogspot.com/-J8UKVIYV2PI/YP2P1S4fyxI/AAAAAAAAELU/A2l-w22JaqE7-AmNOwdJKyg23_1kJ4BGACLcBGAsYHQ/s0/D4345027-94E6-4F0D-B9DC-04726439C780.png" width="37%" height="auto"></a>
+
+	
+		<img class=enimak
+			   <img style="border-radius: 0px;"  src="https://1.bp.blogspot.com/-tgvGlDqVxyM/X69lBaINE2I/AAAAAAAAAAg/CAuNxDKqjpY-xbJdTgRCFMNcm5eITrdxACLcBGAsYHQ/s1220/20201114_010240.png" width="2" height="1" ></a>
+
+
+
+	<a href="go:amor" > <img class=enimak  
+		  <img style="border-radius: 18px 43px;" 
+	
+	src="https://1.bp.blogspot.com/-yN7oEEj2WTk/YPpJwpKJz-I/AAAAAAAAEJM/EYjVF7dkWiMU6WnRaHiqvhtqAwYGdrXYACLcBGAsYHQ/s0/DE8C42DB-D0DB-4EDE-B200-16345B4AB38D.jpeg" width="52%" height="auto"></a>
+
+
+
+
+  
+   
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+
+	
+
+<div>
+	<div class="firstfield" >
+	  
+   </div>
+ 
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+
+
+
+	<div class="firstfield" >
+	  
+   </div>
+ 
+
+
+
+
+
+
+	<div align="center" class="enimak">
+			
+						
+		
+	
+			<a href="go:musica">
+			<img class=enimak
+			 
+			   <img style="border-radius: 43px 18px ;"  src="https://1.bp.blogspot.com/-_WIn1APV9Mk/YO0cMJXjl3I/AAAAAAAAEFA/fDYqcnfhJswqVq6Olh7mB-NL9nY4byZ0ACLcBGAsYHQ/s0/60B6965A-A94B-4C28-8BC1-13B2DA0BC781.jpeg" width="52%" height="auto" ></a>
+			
+			
+					<a href="go:">
+			<img class=enimak
+			 
+			   <img style="border-radius: 0px 0px;"  src="https://1.bp.blogspot.com/-tgvGlDqVxyM/X69lBaINE2I/AAAAAAAAAAg/CAuNxDKqjpY-xbJdTgRCFMNcm5eITrdxACLcBGAsYHQ/s1220/20201114_010240.png" width="2" height="1" ></a>
+			
+			
+			
+			
+			
+			<a href="go:moda">
+			<img class=enimak
+			 
+			   <img style="border-radius: 18px 43px ;"  src="https://1.bp.blogspot.com/-3Dh9o_hTfMY/YPO0W248lJI/AAAAAAAAEHE/iUuLuxkj-q05WO23axVUElpatZFyOsEEwCLcBGAsYHQ/s0/81052061-79ED-4C64-97D4-2856893D34C8.png" width="37%" height="auto" ></a>
+			
+			
+				
+			
+			
+		
+
+
+
+</div>
+
+
+
+
+   
+			 	  <img style="border-radius: 0px;"  src="https://1.bp.blogspot.com/-tgvGlDqVxyM/X69lBaINE2I/AAAAAAAAAAg/CAuNxDKqjpY-xbJdTgRCFMNcm5eITrdxACLcBGAsYHQ/s1220/20201114_010240.png" width="8" height="250px" ></a>
+
+
+
+
+</div>
+
+ <html> 
+  
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<nav class="nav3">
+
+  <a href="#" class="nav3__link nav3__link--active">
+	<i class="material-icons nav__icon">notification_add</i>
+	<span class="nav3__text"></span>
+  </a>
+  
+  
+ <a href="#" class="nav2__link">
+  
+	<h2> <font size="5" color= "#fff" face= "arial">TARYP</font> </h2>
+
+
+
+  </a>
+  <a href="#" class="nav3__link">
+	<i class="material-icons nav__icon">settings_suggest</i>
+	<span class="nav3__text"></span>
+  </a>
+</nav>
+
+
+
+  <html> 
+  
+
+
+
+
+
+	
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<nav class="nav">
+   
+  <a href="#" class="nav__link nav__link--active">
+	<i class="material-icons nav__icon">home</i>
+	<span class="nav__text"></span>
+	
+  </a>
+  <a href="#" class="nav__link">
+	<i class="material-icons nav__icon">campaign</i>
+	<span class="nav__text"></span>
+  </a>
+  
+  
+  <a href="#" class="nav__link">
+  
+  <i class="material-icons nav__icon">explore</i>
+	<span class="nav__text"></span>
+  </a>
+
+  </a>
+  <a href="#" class="nav__link">
+	<i class="material-icons nav__icon">person</i>
+	<span class="nav__text"></span>
+  </a>
+</nav>
+
+
+<style>
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700;800&display=swap');
+</style>
+
+
+<style type="text/css">
+
+
+body {
+	margin: auto;
+	width:auto;
+	height:auto;
+	background-image: linear-gradient(to bottom, #1B0C2A, #000000, #000000);
+
+	background-color: #1B0C2A;
+	
+}
+
+.container{
+	width:100%;
+	height:100px;
+}
+.nav {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	height: 10%;
+	box-shadow: ;
+	background-color: #000000;
+	display: flex;
+	overflow-x: auto;
+}
+
+.nav__link {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	flex-grow: 1;
+	min-width: 50px;
+	overflow: hidden;
+	white-space: nowrap;
+	font-family: sans-serif;
+	font-size: 13px;
+	color: #cccccc;
+	text-decoration: none;
+	-webkit-tap-highlight-color: transparent;
+	transition: background-color 0.1s ease-in-out;
+}
+
+.nav__link:hover {
+	background-color: #121212;
+}
+
+.nav__link--active {
+	color: #fff;
+}
+
+.nav__icon {
+	font-size: 32px;
+	height: 50px;
+	
+}
+
+	
+
+
+</style>
+
+
+
+<style type="text/css">
+
+.container{
+	width:100%;
+	height:100px;
+}
+.nav3 {
+	position: fixed;
+	width: 100%;
+	height: 10%;
+	top: 0;
+	box-shadow: ;
+	background-color: #170A25;
+	display: flex;
+	overflow-x: auto;
+}
+
+.nav3__link {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	flex-grow: 1;
+	min-width: 50px;
+	overflow: hidden;
+	white-space: nowrap;
+	font-family: sans-serif;
+	font-size: 13px;
+	color: #cccccc;
+	text-decoration: none;
+	-webkit-tap-highlight-color: transparent;
+	transition: background-color 0.1s ease-in-out;
+}
+
+.nav3__link:hover {
+	background-color: black;
+}
+
+.nav3__link--active {
+	color: deeppink;
+}
+
+.nav3__icon {
+	font-size: 32px;
+	height: 20px;
+	
+}
+
+	.nav2__link {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	flex-grow: 1;
+	min-width: 100px;
+	overflow: hidden;
+	white-space: nowrap;
+	font-family: sans-serif;
+	font-size: 12px;
+	color: #F78C94;
+	text-decoration: none;
+	-webkit-tap-highlight-color: transparent;
+	transition: background-color 0.1s ease-in-out;
+}
+
+.nav__link:hover {
+	background-color: #121212;
+
+}
+.nav2__icon {
+	font-size: 30px;
+	height: 50px;
+	
+}
+.nav2__link:hover {
+	background-color: black;
+}
+
+
+
+		  }
+
+
+</style>
+
+
+
+<style type="text/css"> 
+
+
+
+
+*{
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	font-family: 'Poppins', sans-serif;
+	box-sizing:border-box;
+}
+
+.main{
+	height:162px;
+	background-position: flex;
+	background-size: cover;
+	overflow-x: hidden;
+	position: flex;
+	width: 100%;
+	background:#fff;
+	box-shadow:0 0 5px rgba(0,0,0,0.2);
+   -webkit-box-shadow:0 0 5px rgba(0,0,0,0.2);
+}
+html,body{
+	width:100%;
+	overflow-x:hidden;
+	scroll-behavior:smooth;
+
+}
+.images {
+  overflow-x: scroll;
+  z-index:9999;
+  overflow-y: hidden;
+  white-space: nowrap;
+  padding-top:15px;
+  padding-left:3px;
+}
+ .img_1{
+	display: inline-block;
+  }
+ .img_1 img{
+	 height:63px;
+	 width: 63px;
+	 border-radius:50%;
+	margin:0 15px; 
+	background:white;
+	padding:5px;
+	box-shadow:0 0 5px 0px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0 0 5px 0px rgba(0,0,0,0.25);
+ }
+ .img_1 img:hover{
+	 border:2px solid deeppink;
+ }
+ .img_1 h6{
+	 margin-left:0px;
+	 text-transform:capitalize;
+	 font-size:12px;
+	 font-weight:bold;
+	 color:#fff;
+	 padding-top:8px;
+	 position: center;
+ }
+ .images .img_1::after{
+	content: '';
+	width: 0%;
+	height: 3px;
+	background:deeppink;
+	display:block ;
+	margin: auto;
+	transition: .5s;
+}
+.images .img_1:hover::after{
+	width: 100%;
+}
+.img_1:hover  h6{
+	color:deeppink;
+}
+.men_related{
+	height:auto;
+	width:100%;
+	background-color:white;
+   overflow:auto;
+	white-space:nowrap ;
+	box-shadow:0 0 5px 0 rgba(0,0,0,0.2);
+	-webkit-box-shadow:0 0 5px 0px rgba(0,0,0,0.2);
+	position:absolute ;
+	margin-top:7px;
+	text-transform:capitalize;
+}
+.list{
+	overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
+  padding-top:15px;
+  padding-left:15px;
+}
+.list h5:hover::after{
+	width: 100%;
+}
+.list h5:hover{
+	animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
+}
+@keyframes shake {
+  10%, 90% {transform: translate3d(-1px, 0, 0);} 
+  20%, 80% {transform: translate3d(2px, 0, 0);}
+  30%, 50%, 70% { transform: translate3d(-4px, 0, 0);}
+  40%, 60% { transform: translate3d(4px, 0, 0);}
+ }
+.list h5:hover::after .mensware h5{
+	transition: .5s;
+	color:deeppink;
+}
+.fa-icons:hover .fa{
+   -webkit-box-shadow: inset 9px 9px 19px #e9e9e9, -9px -9px 19px #ffffff;
+	box-shadow: inset 9px 9px 19px #e9e9e9, -9px -9px 19px #ffffff;
+		 
+}
+.fa-icons:hover .fa{
+	color:deeppink;
+}
+.fa-icons p{
+	font-size:8px;
+	padding:2px;
+}
+
+
+.profile{
+	height:80px;
+	width:80px;
+	position:absolute ;
+	background:white;
+	border-radius:50%;
+	margin-left:60px;
+	text-align:center;padding-top:10px;
+	margin-top:20px;
+}
+.profile .fa{
+	font-size:60px;
+}
+.down_1{
+   margin-top:30px;
+}
+.line,.line1{
+	position:absolute;
+	height:.5px;
+	width:80%;
+	background:gray;
+	margin-top:160px;
+	margin-left:10px;
+}
+.line1{
+	margin-top:275px;
+}
+.profile p{
+	color:deeppink;
+	padding-top:30px;
+}
+.buy{
+		height:30px;
+		width:100%;
+		background:deeppink;
+		text-align:center;
+		margin-top:20px;
+	   padding-top:2px;
+	   color:white;
+	   display:flex;
+	}
+	.buy p{
+		font-size:11px;
+		font-weight:bold;
+		margin:auto;
+	}
+	.countdown{
+	display:flex;
+	margin-top:20px ;
+	margin-left:20px;
+}
+.countdown h6{
+   margin-top:10px;
+   font-weight:bold;
+   font-size:10px;
+}
+.countdown h6 .fa{
+	padding-left:5px;
+}
+.sale p{
+   // margin:5px 20px;
+	font-size:15px;
+	margin-top:4px;
+}
+.countdown div{
+	position:relative ;
+	height:30px;
+	width:30px;
+	line-height:30px;
+	text-align:center ;
+	background:rgba(0,0,0,0.7);
+	background-color:#000;
+	color:#fff;
+	margin:0 3px;
+	font-size:10px;
+	font-weight:bold;
+	border-radius:50%;
+}
+.countdown  #day:after{
+	content:"D";
+	padding-left:2px;
+}
+
+.countdown  #hours:after{
+	content:"H";
+	padding-left:2px;
+}
+
+.countdown  #minutes:after{
+	content:"M";
+	padding-left:2px;
+}
+
+.countdown  #seconds:after{
+	content:"S";
+	padding-left:2px;
+}
+
+.loader .load{
+	height:50px;
+	width:50px;
+	position:absolute ;
+	transform:rotate(45deg);
+	background:deeppink;
+	animation:2s expand  linear infinite forwards;
+}
+.loader .load:before{
+	height:50px;
+	width:50px;
+	position:absolute ;
+	transform:rotate(-45deg);
+	background:#fff;
+	content:"";
+}
+.loader .text{
+	font-size:18px;
+	margin-top:35%;
+	
+}
+@keyframes expand{
+	0%{transform:scale(0)rotate(360deg);}
+	50%{transform:scale(1)rotate(-360deg);}
+	100%{transform:scale(0)rotate(360deg);}
+}
+@media screen and (max-width: 768px){
+	.nav-bar{
+		padding: 10px 30px;
+	}
+	.fa-bars{
+		position: absolute;
+		left: 0px;
+		top: 10px;
+	}
+	.nav-logo input[type="text"]{
+		width:100%;
+	}
+	.nav-logo i{
+		font-size: 25px;
+		right:0;
+	}
+	.nav-bar .fa-close,.nav-bar .fa-bars{
+		display: block;
+		color:#000;
+		margin: 10px 25px;
+		font-size: 22px;
+		cursor: pointer;
+	}
+	.nav-bar .fa-close{
+		color: #fff;
+	}
+	.fa-close{
+		float:right;
+	}
+	.nav-links{
+		height: 100vh;
+		width:220px;
+		background-color:#000;
+		background:rgba(0,0,0,0.9);
+		top: 0;
+		left:-220px;
+		position:fixed;
+		text-align: left;
+		z-index: 10;
+		transition: 0.5s;
+		font-weight:700;
+	}
+	.nav-links span{
+		font-size: 30px;
+		color:#fff;
+		margin: 10px 25px;
+		cursor: pointer;
+	}
+	.nav-links ul a{
+		display: block;
+		color:#fff;
+	}
+  }
+
+
+</style>
+
+  <link rel="stylesheet" href="./style.css">
+</head>
+<style type="text/css">
+body {
+	
+	font-family: sans-serif;
+	margin: 0;
+}
+
+.modal {
+	width: 100%;
+	height: 100vh;
+	background: rgba(0,0,0,0.8);
+	
+	position: absolute;
+	top: 0;
+	left: 0;
+	
+	display: flex;
+	
+	animation: modal 0.1s 0.1s forwards;
+	visibility: hidden;
+	opacity: 0;
+}
+
+.contenido {
+	margin: auto;
+	width: 90%;
+	height: 30%;
+	background: rgba(0,0,0,0.4);
+	border: 2px solid #cccccc;
+	border-radius: 10px;
+}
+
+#cerrar {
+	display: none;
+}
+
+#cerrar + label {
+	position: fixed;
+	color: #fff;
+	font-size: 25px;
+	z-index: 50;
+	background: darkred;
+	height: 40px;
+	width: 40px;
+	line-height: 40px;
+	border-radius: 50%;
+	right: 150px;
+	top: 150px;
+	cursor: pointer;
+	
+	animation: modal 0.1s 0.1s forwards;
+	visibility: hidden;
+	opacity: 0;
+}
+
+#cerrar:checked + label, #cerrar:checked ~ .modal {
+	display: none;
+}
+
+@keyframes modal {
+	100% {
+		visibility: visible;
+		opacity: 1;
+	}
+}
+</style>
+
+<center>
+<body>
+<!-- partial:index.partial.html -->
+<input type="checkbox" id="cerrar">
+<label for="cerrar" id="btn-cerrar">X</label>
+<div class="modal">
+<div class="contenido">
+
+<h2> <font size="5" color= "#fff" face= "arial">Bienvenido a TARYP</font> </h2>
+
+<h4> <font size="3" color= "#fff" face= "arial">Que bueno tenerte por acá</font></h4>
+
+<h4> <font size="3" color= "#fff" face= "arial">¡Espero te diviertas!</font></h4>
+
+
+<img src="https://1.bp.blogspot.com/-nrYsgvMXhOo/YQc0NKhpurI/AAAAAAAAER4/ybtC9MLWAs4_bTNmo_CkqIeQqV5nXcPsgCLcBGAsYHQ/s0/4FC5EF8A-4349-45E0-BD29-54C3E1781783.png" width="20%" height="auto" alt="">
+
+</div>
+</div>
+</body>
+
+<center>
+</html>
